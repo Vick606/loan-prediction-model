@@ -53,6 +53,8 @@ Conclusion
 
 In brief, this project represents a pivotal step towards modernizing loan approval processes using machine learning. By predicting loan outcomes accurately, financial institutions can enhance efficiency, reduce risks, and ultimately provide better services to their customers.
 
-You are invited to explore, contribute, and innovate with this project. Together, we can shape a more sustainable and data-driven future for loans. Happy predicting!
+You are invited to explore, contribute, and innovate with this project. Together, we can shape a more sustainable and data-driven future for loans. 
+
+Happy predicting!
 
 For any questions or collaboration opportunities, please contact me at #vickoch20@gmail.com# 
